@@ -1,5 +1,5 @@
 # VegaLeaderboards
-
+Now for 5.0.0
 VegaLederboards is a plugin that allows you to make floating texts with different types of leaderbords (kills and deaths). It's also 100% personalizable! You can edit everything! From the first line, to the last line of the floating texts, being able to change the colors with few commands in-game!
 
 When a player dies or a player kills other person, the floating texts update :smiley:
