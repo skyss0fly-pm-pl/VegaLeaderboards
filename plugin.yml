@@ -1,7 +1,7 @@
 name: VegaLeaderboards
 main: SVega9848\VegaLeaderboards\Loader
-version: 1.0.0
-api: [4.0.0]
+version: 1.0.1
+api: 5.0.0
 author: SVega9848
 description: Display leaderboards in your server!
 
